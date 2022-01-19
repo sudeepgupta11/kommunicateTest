@@ -1,0 +1,25 @@
+INPUT 1:
+8 Jan,20 Jan,29 Jan,02 Feb,10 Feb,15 Feb
+28 Jan,30 Jan,16 Feb,14 Feb,18 Feb,28 Feb
+Bala,Rock,PolicyMaker,Brave,Drive,Race
+
+OUTPUT 1:
+The movie actor should work in the below 3 movies which will help them earn 3 Crore rupees.
+Bala
+Brave
+Race
+
+---------------------------------------------------------------------
+
+INPUT 2:
+1 Jan,3 Jan,20 Jan,5 Feb,6 Feb,21 Feb,5 Mar
+16 Jan,11 Jan,4 Feb,27 Feb,19 Feb,27 Feb,29 Mar
+Race,Hero,Coolie,Deewar,Pushpa,Drishyam,Train
+
+OUTPUT 2:
+The movie actor should work in the below 5 movies which will help them earn 5 Crore rupees.
+Hero
+Coolie
+Pushpa
+Drishyam
+Train

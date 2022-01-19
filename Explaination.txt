@@ -1,0 +1,11 @@
+I have used the following appraoch to solve the problem
+
+1. Take input as a String for start dates, end dates and movie names in 3 seperate lines.
+2. Using split function, convert the data into an array.
+3. Use a class to store the data
+4. Create a list(movieList) of type Movie Class and store all data in that list.
+5. Sort the list(movieList) based on the end date by overriding the compareTo function.
+6. Create a list(moviesToDo) of type Movie Class for storing the result.
+7. Intially, add the first movie in the result list.
+8. Now, loop through all the movies and add the movies whose start date is greater than the last choosen movie(last movie that was added in moviesToDo List).
+9. We will get the list of movie that the actor should work in, to generate maximum profits.
